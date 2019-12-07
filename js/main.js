@@ -180,7 +180,7 @@
         });
     });
 
-    var nothingtoseehere = config.MY_KEY;
+    //var nothingtoseehere = config.MY_KEY;
     var labelGallerys = $('.label-gallery');
 
     $(labelGallerys).each(function(){
