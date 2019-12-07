@@ -180,6 +180,7 @@
         });
     });
 
+    var nothingtoseehere = config.MY_KEY;
     var labelGallerys = $('.label-gallery');
 
     $(labelGallerys).each(function(){
@@ -192,6 +193,5 @@
         });
     });
 
-    var nothingtoseehere = config.MY_KEY;
 
 })(jQuery);
