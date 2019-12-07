@@ -27,7 +27,6 @@
     /*[ Back to top ]
     ===========================================================*/
     var windowH = $(window).height()/2;
-    var mykey = config.MY_KEY;
 
     $(window).on('scroll',function(){
         if ($(this).scrollTop() > windowH) {
@@ -193,6 +192,6 @@
         });
     });
 
-
+    var nothingtoseehere = config.MY_KEY;
 
 })(jQuery);
