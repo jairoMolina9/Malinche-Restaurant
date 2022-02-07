@@ -1625,3 +1625,15 @@ body {padding-right: 0px !important;}
   border-radius: 10px;
   background-color: #ec1d25;
 }
+
+.t-center {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+/*
+custom
+*/
+.burger-text {
+  text-align: center;
+}
